@@ -1,3 +1,1 @@
-Hi, I'm Bilal Sagir. 
-
-Let's network.
+:Let's Network :)
